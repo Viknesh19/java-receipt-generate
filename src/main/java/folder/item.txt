@@ -1,0 +1,10 @@
+Bread,2.50
+Candy,1.00
+Water,1.50
+Ice Cream,2.00
+Chocolate,3.50
+Soft Drink,3.00
+Chips,2.00
+Biscuits,1.50
+Energy Drink,4.00
+Coffee,3.50
